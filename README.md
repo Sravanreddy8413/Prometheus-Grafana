@@ -3,6 +3,7 @@
 End-to-End Infrastructure & Application Monitoring with Prometheus, Grafana, and Loki
 An enterprise-ready, production-grade observability stack designed to collect, scrape, visualize, and alert on system metrics, container health, custom Node.js application telemetry, and centralized log files using Prometheus, Grafana, Node Exporter, cAdvisor, and Loki.
 
+
 Architecture Overview
 +-----------------------------------------------------------------------------------+
 |                                  SERVER HOST                                      |
